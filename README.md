@@ -22,9 +22,8 @@ pip install PyQt5 Pillow
 ```bash
 python main.py
 ```
-
-(./images/2.png)
-(./images/3.png)
-(./images/1.png)
-(./images/4.png)
-(./images/5.png)
+<img src="./images/2.png">
+<img src="./images/3.png">
+<img src="./images/1.png">
+<img src="./images/4.png">
+<img src="./images/5.png">
